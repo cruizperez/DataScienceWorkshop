@@ -1,2 +1,2 @@
 # DataScienceWorkshop
-Data Science Workshop
+Atlanta Data Science Workshop
